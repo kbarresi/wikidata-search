@@ -1,6 +1,6 @@
 {
   "name": "wikidata-search",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Perform easy entity searches using Wikidata. Supply an entity name, and get back a bunch of structured data about that entity.",
   "main": "./lib/wikidata-search.js",
   "scripts": {
